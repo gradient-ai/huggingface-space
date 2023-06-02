@@ -4,4 +4,4 @@ This repo contains the code corresponding to the blog found (here)[blog.paperspa
 
 To run this code in a Gradient Notebook on a Free GPU, click the button below
 
-[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://github.com/gradient-ai/huggingface-space?machine=Free-GPU)
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/huggingface-space?machine=Free-GPU)
